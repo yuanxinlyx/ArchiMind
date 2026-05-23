@@ -4,6 +4,10 @@
 
 > 让多个 AI Agent 从不同专业视角展开多轮讨论，协作打磨出高质量的架构设计方案。
 
+<p align="center">
+  <img src="./docs/images/archimind-home.png" alt="ArchiMind 首页演示" width="900" />
+</p>
+
 ## 功能亮点
 
 - **多角色协作** — 自定义 Agent 角色（架构师、安全专家、DBA、性能工程师等），每个角色带有独立 System Prompt 和立场（中立/挑战/支持）

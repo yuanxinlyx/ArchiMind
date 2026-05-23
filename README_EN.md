@@ -4,6 +4,10 @@
 
 > Multiple AI agents discuss your project from different professional perspectives, collaboratively producing high-quality architecture designs.
 
+<p align="center">
+  <img src="./docs/images/archimind-home.png" alt="ArchiMind home screen demo" width="900" />
+</p>
+
 ## Features
 
 - **Multi-Role Collaboration** — Customize agent roles (Architect, Security Expert, DBA, Performance Engineer, etc.) with independent system prompts and stances (neutral / challenge / support)
